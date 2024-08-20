@@ -15,6 +15,7 @@ The following files contain the Bikeshare data that was analyzed:
 chicago.csv
 new_york_city.csv
 washington.csv
+The python code to analyze the data is in the bikeshare_2.py file
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
