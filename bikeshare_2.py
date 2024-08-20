@@ -23,7 +23,7 @@ def get_filters():
     month = print('Which month would you like to analyze?')
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
-
+    day = print('Which day of the week?')
 
     print('-'*40)
     return city, month, day
