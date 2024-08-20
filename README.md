@@ -4,10 +4,11 @@
 Project Created on 8/20/2014
 
 ### Project Title
-Replace the Project Title
+Python Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+This project analyses date related to Bikeshare systems for three major cities in the United States - Chicago, New York City,
+and Washington.
 
 ### Files used
 Include the files used
