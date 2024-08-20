@@ -20,7 +20,7 @@ def get_filters():
     city = print('Would you like to look at data in Chicago, New York City, or Washington?')
 
     # get user input for month (all, january, february, ... , june)
-
+    month = print('Which month would you like to analyze?')
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
 
