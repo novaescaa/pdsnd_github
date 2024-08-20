@@ -11,7 +11,10 @@ This project analyses date related to Bikeshare systems for three major cities i
 and Washington.
 
 ### Files used
-Include the files used
+The following files contain the Bikeshare data that was analyzed:
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
